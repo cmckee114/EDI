@@ -1,5 +1,5 @@
 %PDF-1.6%âãÏÓ
-1 0 obj<</Metadata 2 0 R/OCProperties<</D<</ON[20 0 R 21 0 R]/Order 22 0 R/RBGroups[]>>/OCGs[20 0 R 21 0 R]>>/Pages 3 0 R/Type/Catalog>>endobj2 0 obj<</Length 22256/Subtype/XML/Type/Metadata>>stream
+1 0 obj<</Metadata 2 0 R/OCProperties<</D<</ON[20 0 R 21 0 R]/Order 22 0 R/RBGroups[]>>/OCGs[20 0 R 21 0 R]>>/Pages 3 0 R/Type/Catalog>>endobj2 0 obj<</Length 23167/Subtype/XML/Type/Metadata>>stream
 <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 79.217bca6, 2021/06/14-18:28:11        ">
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -14,6 +14,7 @@
             xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
             xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
             xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
             xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
             xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
          <tiff:XResolution>150/1</tiff:XResolution>
@@ -22,9 +23,9 @@
          <exif:PixelXDimension>1275</exif:PixelXDimension>
          <exif:PixelYDimension>1650</exif:PixelYDimension>
          <xmp:CreatorTool>Adobe Illustrator 25.4 (Macintosh)</xmp:CreatorTool>
-         <xmp:ModifyDate>2021-10-19T08:17:59-04:00</xmp:ModifyDate>
-         <xmp:CreateDate>2021-10-19T08:17:59-04:00</xmp:CreateDate>
-         <xmp:MetadataDate>2021-10-19T08:17:59-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2021-10-19T08:18:33-04:00</xmp:ModifyDate>
+         <xmp:CreateDate>2021-10-19T08:18:33-04:00</xmp:CreateDate>
+         <xmp:MetadataDate>2021-10-19T08:18:33-04:00</xmp:MetadataDate>
          <xmp:Thumbnails>
             <rdf:Alt>
                <rdf:li rdf:parseType="Resource">
@@ -38,7 +39,7 @@
          <dc:format>application/pdf</dc:format>
          <dc:title>
             <rdf:Alt>
-               <rdf:li xml:lang="x-default">SlotAnimalWithSlots</rdf:li>
+               <rdf:li xml:lang="x-default">SlotAnimalsRastorScore</rdf:li>
             </rdf:Alt>
          </dc:title>
          <xmpTPg:NPages>1</xmpTPg:NPages>
@@ -64,17 +65,29 @@
          </xmpTPg:SwatchGroups>
          <illustrator:Type>Document</illustrator:Type>
          <illustrator:CreatorSubTool>AIRobin</illustrator:CreatorSubTool>
-         <xmpMM:DocumentID>xmp.did:81971f56-071e-4b2e-aabc-85845e869cdf</xmpMM:DocumentID>
-         <xmpMM:InstanceID>uuid:3b27f19e-b491-5941-84fe-62df65c0d7c1</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:c2ae7992-1a65-41f7-b057-8689293ac979</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:7e34f854-141f-cd4e-bc35-c5f07cae75cb</xmpMM:InstanceID>
          <xmpMM:OriginalDocumentID>xmp.did:81971f56-071e-4b2e-aabc-85845e869cdf</xmpMM:OriginalDocumentID>
          <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
-         <xmpMM:DerivedFrom rdf:parseType="Resource"/>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:81971f56-071e-4b2e-aabc-85845e869cdf</stRef:instanceID>
+            <stRef:documentID>xmp.did:81971f56-071e-4b2e-aabc-85845e869cdf</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:81971f56-071e-4b2e-aabc-85845e869cdf</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
          <xmpMM:History>
             <rdf:Seq>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
                   <stEvt:instanceID>xmp.iid:81971f56-071e-4b2e-aabc-85845e869cdf</stEvt:instanceID>
                   <stEvt:when>2021-10-18T14:19:09-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator 25.4 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:c2ae7992-1a65-41f7-b057-8689293ac979</stEvt:instanceID>
+                  <stEvt:when>2021-10-19T08:18:31-04:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Illustrator 25.4 (Macintosh)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
@@ -105,7 +118,7 @@
                                                                                                     
                                                                                                     
                            
-<?xpacket end="w"?>endstreamendobj3 0 obj<</Count 1/Kids[5 0 R]/Type/Pages>>endobj5 0 obj<</ArtBox[115.025 105.517 726.99 505.171]/BleedBox[0.0 0.0 792.0 612.0]/Contents 23 0 R/CropBox[0.0 0.0 792.0 612.0]/LastModified(D:20211019081759-04'00')/MediaBox[0.0 0.0 792.0 612.0]/Parent 3 0 R/PieceInfo<</Illustrator 7 0 R>>/Resources<</ExtGState<</GS0 24 0 R>>/Properties<</MC0 20 0 R/MC1 21 0 R>>>>/Thumb 25 0 R/TrimBox[0.0 0.0 792.0 612.0]/Type/Page>>endobj23 0 obj<</Filter/FlateDecode/Length 12013>>stream
+<?xpacket end="w"?>endstreamendobj3 0 obj<</Count 1/Kids[5 0 R]/Type/Pages>>endobj5 0 obj<</ArtBox[115.025 105.517 726.99 505.171]/BleedBox[0.0 0.0 792.0 612.0]/Contents 23 0 R/CropBox[0.0 0.0 792.0 612.0]/LastModified(D:20211019081833-04'00')/MediaBox[0.0 0.0 792.0 612.0]/Parent 3 0 R/PieceInfo<</Illustrator 7 0 R>>/Resources<</ExtGState<</GS0 24 0 R>>/Properties<</MC0 20 0 R/MC1 21 0 R>>>>/Thumb 25 0 R/TrimBox[0.0 0.0 792.0 612.0]/Type/Page>>endobj23 0 obj<</Filter/FlateDecode/Length 12013>>stream
 H‰T—IÎ\¹„÷uŠw¢8[Ë€W†ÑĞÂoZÔ¾?àø"YBôù8ä™üò¯Ï—¿ÍÏ_şúõyı|åg–ú¬SŸ7?şø×ëŸÏ^_şö-?ÿşïëçS¬å©c§±W{Fî©Ÿ±ï?^|Òÿ)—ı¼KNm=9Î*¥¤­½©êÿw™-ö|ítêg\Æó»&v÷òšrÏNs†©5:®¡­ß^¿ıÙœ¹R­ËÖÌ•çŸ­©,úıU´½6–úŞO;i¯ş¼—/#µ‰!+­ÁéSK†ÔÊØÏê©ñ¼[IkÖg×´ìêrµm-?=e…à=rÚû<ç¤ÓuÜÔ¶r’‹ÆS—Ô;Ç™¹{'HrmkEMÃT]ûsªv”®ÈT_AD3:¼Ê†sÃ<f*}={Ê4b5«ü,·¦ã«¥yö³s:ƒñ©æÂ¸lÆg¦“I‡ìÛS·ê«âĞìƒñÔ™q;
 a-±ÇV<£3WXåÇP$9±ÆKßrÁ"ëÖJ,uë.iê(GıÙòÚNk/üVŒÒwUl³>ÉØ=Ù?‹Ìï
 ]SÄ˜ºª±¦è
@@ -156,8 +169,8 @@ E1r!/,*0[*9.aFIR2&b-C#s<Xl5FH@[<=!#6V)uDBXnIr.F>oRZ7Dl%MLY\.?d>Mn
 6%Q2oYfNRF$$+ON<+]RUJmC0I<jlL.oXisZ;SYU[/7#<&37rclQKqeJe#,UF7Rgb1
 VNWFKf>nDZ4OTs0S!saG>GGKUlQ*Q?45:CI&4J'_2j<etJICj7e7nPMb=O6S7UOH<
 PO7r\I.Hu&e0d&E<.')fERr/l+*W,)q^D*ai5<uuLX.7g/>$XKrcYp0n+Xl_nU*O(
-l[$6Nn+Z_Nq0]s7hs]`XX1nZ8&94a\~>endstreamendobj20 0 obj<</Intent 28 0 R/Name(Cut)/Type/OCG/Usage 29 0 R>>endobj21 0 obj<</Intent 30 0 R/Name(Rastor+Score)/Type/OCG/Usage 31 0 R>>endobj30 0 obj[/View/Design]endobj31 0 obj<</CreatorInfo<</Creator(Adobe Illustrator 25.4)/Subtype/Artwork>>>>endobj28 0 obj[/View/Design]endobj29 0 obj<</CreatorInfo<</Creator(Adobe Illustrator 25.4)/Subtype/Artwork>>>>endobj24 0 obj<</AIS false/BM/Normal/CA 1.0/OP false/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op false>>endobj7 0 obj<</LastModified(D:20211019081759-04'00')/Private 16 0 R>>endobj16 0 obj<</AIMetaData 17 0 R/AIPrivateData1 18 0 R/ContainerVersion 12/CreatorVersion 25/RoundtripStreamType 2/RoundtripVersion 24>>endobj17 0 obj<</Length 1456>>stream
-%!PS-Adobe-3.0 %%Creator: Adobe Illustrator(R) 24.0%%AI8_CreatorVersion: 25.4.1%%For: (Cassidy McKee '23) ()%%Title: (SlotAnimalWithSlots.ai)%%CreationDate: 10/19/21 8:17 AM%%Canvassize: 16383%%BoundingBox: 679 339 1291 740%%HiResBoundingBox: 679.024975711083 339.517464281424 1290.98997854522 739.170951103077%%DocumentProcessColors: Black%AI5_FileFormat 14.0%AI12_BuildNumber: 498%AI3_ColorUsage: Color%AI7_ImageSettings: 0%%RGBProcessColor: 0 0 0 ([Registration])%AI3_Cropmarks: 564 234 1356 846%AI3_TemplateBox: 959.5 540.5 959.5 540.5%AI3_TileBox: 582 252 1316 828%AI3_DocumentPreview: None%AI5_ArtSize: 14400 14400%AI5_RulerUnits: 0%AI24_LargeCanvasScale: 1%AI9_ColorModel: 1%AI5_ArtFlags: 0 0 0 1 0 0 1 0 0%AI5_TargetResolution: 800%AI5_NumLayers: 2%AI17_Begin_Content_if_version_gt:24 4%AI10_OpenToVie: 687.835411350989 727.346574005841 2.67631824388941 0 8084.24037365493 8136.55104347892 1268 811 18 1 0 16 43 0 0 0 1 1 0 1 1 0 1%AI17_Alternate_Content%AI9_OpenToView: 687.835411350989 727.346574005841 2.67631824388941 1268 811 18 1 0 16 43 0 0 0 1 1 0 1 1 0 1%AI17_End_Versioned_Content%AI5_OpenViewLayers: 73%AI17_Begin_Content_if_version_gt:24 4%AI17_Alternate_Content%AI17_End_Versioned_Content%%PageOrigin:0 0%AI7_GridSettings: 72 8 72 8 1 0 0.800000011920929 0.800000011920929 0.800000011920929 0.899999976158142 0.899999976158142 0.899999976158142%AI9_Flatten: 1%AI12_CMSettings: 00.MS%%EndCommentsendstreamendobj18 0 obj<</Length 56119>>stream
+l[$6Nn+Z_Nq0]s7hs]`XX1nZ8&94a\~>endstreamendobj20 0 obj<</Intent 28 0 R/Name(Cut)/Type/OCG/Usage 29 0 R>>endobj21 0 obj<</Intent 30 0 R/Name(Rastor+Score)/Type/OCG/Usage 31 0 R>>endobj30 0 obj[/View/Design]endobj31 0 obj<</CreatorInfo<</Creator(Adobe Illustrator 25.4)/Subtype/Artwork>>>>endobj28 0 obj[/View/Design]endobj29 0 obj<</CreatorInfo<</Creator(Adobe Illustrator 25.4)/Subtype/Artwork>>>>endobj24 0 obj<</AIS false/BM/Normal/CA 1.0/OP false/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op false>>endobj7 0 obj<</LastModified(D:20211019081833-04'00')/Private 16 0 R>>endobj16 0 obj<</AIMetaData 17 0 R/AIPrivateData1 18 0 R/ContainerVersion 12/CreatorVersion 25/RoundtripStreamType 2/RoundtripVersion 24>>endobj17 0 obj<</Length 1456>>stream
+%!PS-Adobe-3.0 %%Creator: Adobe Illustrator(R) 24.0%%AI8_CreatorVersion: 25.4.1%%For: (Cassidy McKee '23) ()%%Title: (SlotAnimalWithSlots.ai)%%CreationDate: 10/19/21 8:18 AM%%Canvassize: 16383%%BoundingBox: 679 339 1291 740%%HiResBoundingBox: 679.024975711083 339.517464281424 1290.98997854522 739.170951103077%%DocumentProcessColors: Black%AI5_FileFormat 14.0%AI12_BuildNumber: 498%AI3_ColorUsage: Color%AI7_ImageSettings: 0%%RGBProcessColor: 0 0 0 ([Registration])%AI3_Cropmarks: 564 234 1356 846%AI3_TemplateBox: 959.5 540.5 959.5 540.5%AI3_TileBox: 582 252 1316 828%AI3_DocumentPreview: None%AI5_ArtSize: 14400 14400%AI5_RulerUnits: 0%AI24_LargeCanvasScale: 1%AI9_ColorModel: 1%AI5_ArtFlags: 0 0 0 1 0 0 1 0 0%AI5_TargetResolution: 800%AI5_NumLayers: 2%AI17_Begin_Content_if_version_gt:24 4%AI10_OpenToVie: 687.835411350989 727.346574005841 2.67631824388941 0 8084.24037365493 8136.55104347892 1268 811 18 1 0 16 43 0 0 0 1 1 0 1 1 0 1%AI17_Alternate_Content%AI9_OpenToView: 687.835411350989 727.346574005841 2.67631824388941 1268 811 18 1 0 16 43 0 0 0 1 1 0 1 1 0 1%AI17_End_Versioned_Content%AI5_OpenViewLayers: 73%AI17_Begin_Content_if_version_gt:24 4%AI17_Alternate_Content%AI17_End_Versioned_Content%%PageOrigin:0 0%AI7_GridSettings: 72 8 72 8 1 0 0.800000011920929 0.800000011920929 0.800000011920929 0.899999976158142 0.899999976158142 0.899999976158142%AI9_Flatten: 1%AI12_CMSettings: 00.MS%%EndCommentsendstreamendobj18 0 obj<</Length 56119>>stream
 %AI24_ZStandard_Data(µ/ı Xäen˜F6.DJK: €æMkL‚4eúš20E„ xÁÅ9%ÙMvib«@[³    N¡Ga@&AB@ğÄ¼€ìè`è¤P0…¢Ñ@…‚"8^’ã¥ÁÄ98Î$Dä¡HQ¤PL,0GS‚²–˜¸ ğ1+>7Z4p4&ğä1T¤ÒHĞ†™ N2ddÆƒšMÄIÆƒS‡ƒŒŒ‡	ˆ¥…–D0N¦Ÿ‡‡ı<ÜCFª$ÑùH<¨r43'¨A’‘a%\D„€ÃálØH9QŒÊ	!à¡a¤‘€â £0{Zhnˆ;¼¬•
 irp‚â  Aì$TfN&'.$&8<ä¤Dâ€£8kÑp`¢qÁòT„lt(0f6>"Ò¡À1RÀX`Àcqq1#R
 <8e|Xp4íÒÀ¥96ãA~F8l¤‚
@@ -206,7 +219,7 @@ R¡—hä@#Ôé“²£PK	ä;>ÍU¡ˆE$ôr}¤(v|R"É)4šQ`¦*’:}B¤ÒJ !‘ !ôŠ/¯ÂÅ
 }G¢]¦[íúıP
 42É„FX½âÍ«4±RŞJsÉ˜J'RI$z	)hĞ`•„Å†Gc•ê…$J¥B"¡LGJw|8šJ"ôB‘¤dÇ‡£ñ×JâZ‘™9Ğ2ÍX¤àu|®JdN%ĞH¤‘²&†4²¨$P§Ò¨tB…XJ§)$3ÃRÂàp4İ–v·o}ë³+ÄÕõş÷_öx•¢£²öíúÌ*İîzûm¡B
 DÆ´«{¼ê3«o®$P²x!‰ZH3%G“|•DH "
-$ 	tÁáh@>UŸ„W‡?]%J0H%‘ƒ´P©ÒH&%Z0ÉˆHŸTi$ÒPI„F)Ñ‡£qh¨ªPÈƒ¤ E„B.*‰SIƒÃÑÜÒµXIJ"Ô)T’âGcK±rPĞp*¥@§jf4ê¨*‰S)
+$ 	tÁáh@>•Ÿ„W‡?]%J0H%‘ƒ´P©ÒH&%Z0ÉˆHŸTi$ÒPI„F)Ñ‡£qh¨ªPÈƒ¤ E„B.*‰SIƒÃÑÜÒµXIJ"Ô)T’âGcK±rPĞp*¥@§jf4ê¨*‰S)
 .8Me+#B+¥–O„HÈ†Œ™oëî5,úoÿµ7÷:İªß2Íötİ}uk†j‡Ïºr·z\WÅW¿…÷²®âıbÿRŞÊÛú®ıVoé½†¥zT?ãÃW[Ü[9?²«ÿ¯¾¯í´Õ-qúVËkÜŞ¶ŠËğ+]7ëDtíå¾U¦z¯™jâJ|KåÎö©¶¨·ö·Ró5½ÔÄ^‹_y÷ªg'«¯=®Y‘õ¾½WæW»ï®‰i«“+äTÌ¿»¶Åù–jõï2=qırµ¨—œ­Ù·2¿ÂcnLşÛ\Ú\ñ¾µãmó­Ë¯:_Ûı¼W;Wœÿø½ªkñ5,Uşå¹ncòòçŠ;ÕßĞoé}•Ï˜š}n¿Øºr^¿mãC^k_ù¡?›5Ş.½®Ü[yU×¿kX*L¾uËİûeØ•æï%ê¶ïb÷ŠÍÙíù}YvÅ­ÈÜ¶f·®½Rî3»[ô[]±®ªfï«¯W×|T§í­|{}©2ŒÊ4¨O…¯™yĞ„>••ÈÌ°°|,,ğ{×5ˆh.*lµ;ŞµæåÙ•^›+ş3öv¯e¯ñm¾©6+®TUÏ¶×ãäî×G]—m×ßæëÍüöŞ¶ëÒ+fÎ|]_wlÃ}oäåèU.š6Ş[¿w«ş{k¯E×\TŸÎºÖ¿üK{+|tç´oö…èŸú¾Î‹‘+ì½<Ûûî…è•ójÚj/Şr~Û¶5–©ô|¹{_—;÷7¶ïBô
 £:êSéif4¡i `R™æS&…£:}R¬’¨0:H>@L<©ŒOuÒGåš¹hĞ¬|TVÙVV}W»X}WX™¦…”‘r§™@‰£i†£áh8GãRà…£i¨xÀÑDÀ PT¬ÇŞ ÊÅÇhÃ$¥C¡,›¿õ\0Ë­,ƒÑXÎ´rMçeåó`å¬”rœgâ„
 (8îƒ9£á0O… 	ÓÆEèËÄz°ÁÑtH60"XlDÈSƒ¶àØH@]‡€»0q4^ ®@œß¨A  ‚è|@\‡sq©‡¸¬ Ä5À0@\†U<p1Æ#A²ôÃÅ"Ö…ËI@4H<D`p1ˆJGÃàƒÃhFc¢CB òœN"”LH@ˆ<$"OÃI‹Û0Ñ8Gƒ!À‚³Qà<ù¥‡ª!µñp–Ô>È`‘àó2@@O… ;°Õ—ó’ó…ëD)ˆ
@@ -450,39 +463,39 @@ eîÊ»æ[åæ2©|xzös¸¨AÉP6Û,ÛG•¡|íî¹)ØÎÌñPzgÚC»… PWbı¤—°p¥ßVDvëEP“ƒ¥Ã
  ±Ë‰H?Xï&½xª#†­èé‡ÎUjçĞ$õ’ßp•é†ÙôR˜}^Ê¬ ßgT%lº]OlDUğ2Ñd’h`T *,(E]õÖzutw*24Y&¢Ë#pœÒ&Ê;ª;­ƒÕôy‘¹„ñ£N( 1‚¤, :0ÂÂûíd¬ÀMhw/l£¡T6L}ÑØ:	Ë‰¼pÑ_kÆ‚Î®+”d0ëx²½<ÜæìÒ‰º’Ã1g+%e/yi{œµK S‚‚“N(á˜P€US¶N™Çß·©ÍG$ÆQµƒº-îŒáè™3+`tH¢!mÙ‹6–æv9ú1ófÜsÔQ	yæu?µWğ¿fØb*ï‚ªÌ™“vƒc\
 §îVg0!µœW’äİ§&FQIyJï§ò3È#9"N
 æƒ<¬—"'xñ{»¹’b¯ÜbV2Ğ3IXZŸ+²Æ=›ÓÔĞt Ÿ
- }		Ôš×C€â0ôOç”‡ÏfÙáP;èqÚ”¬‰­,­T~ZŞê¯ M˜)j®cå•ZZ5Å÷Y“¬õE…Á …gjÃú|(endstreamendobj22 0 obj[21 0 R 20 0 R]endobj32 0 obj<</CreationDate(D:20211019081759-04'00')/Creator(Adobe Illustrator 25.4 \(Macintosh\))/ModDate(D:20211019081759-04'00')/Producer(Adobe PDF library 16.00)/Title(SlotAnimalWithSlots)>>endobjxref
+ }		Ôš×C€â0ôOç”‡ÏfÙáP;èqÚ”¬‰­,­T~ZŞê¯ M˜)j®cå•ZZ5Å÷Y“¬õE…Á …gjÃú|(endstreamendobj22 0 obj[21 0 R 20 0 R]endobj32 0 obj<</CreationDate(D:20211019081833-04'00')/Creator(Adobe Illustrator 25.4 \(Macintosh\))/ModDate(D:20211019081833-04'00')/Producer(Adobe PDF library 16.00)/Title(SlotAnimalsRastorScore)>>endobjxref
 0 33
 0000000004 65535 f
 0000000016 00000 n
 0000000161 00000 n
-0000022494 00000 n
+0000023405 00000 n
 0000000000 00000 f
-0000022545 00000 n
+0000023456 00000 n
 0000000000 00000 f
-0000036757 00000 n
-0000000000 00000 f
-0000000000 00000 f
+0000037668 00000 n
 0000000000 00000 f
 0000000000 00000 f
 0000000000 00000 f
 0000000000 00000 f
 0000000000 00000 f
 0000000000 00000 f
-0000036830 00000 n
-0000036971 00000 n
-0000038478 00000 n
 0000000000 00000 f
-0000036269 00000 n
-0000036336 00000 n
-0000094649 00000 n
-0000022920 00000 n
-0000036644 00000 n
-0000035004 00000 n
-0000035708 00000 n
-0000035756 00000 n
-0000036528 00000 n
-0000036559 00000 n
-0000036412 00000 n
-0000036443 00000 n
-0000094681 00000 n
-trailer<</Size 33/Root 1 0 R/Info 32 0 R/ID[<71B7898EABCB4C8BBB5BD4C421BFC8E0><940F86A0662240488ED65049739C802B>]>>startxref94880%%EOF
+0000000000 00000 f
+0000037741 00000 n
+0000037882 00000 n
+0000039389 00000 n
+0000000000 00000 f
+0000037180 00000 n
+0000037247 00000 n
+0000095560 00000 n
+0000023831 00000 n
+0000037555 00000 n
+0000035915 00000 n
+0000036619 00000 n
+0000036667 00000 n
+0000037439 00000 n
+0000037470 00000 n
+0000037323 00000 n
+0000037354 00000 n
+0000095592 00000 n
+trailer<</Size 33/Root 1 0 R/Info 32 0 R/ID[<3F5077A38BC24173A8DFA69A1A8EF550><68943C2009534855AC5E950C0644355D>]>>startxref95794%%EOF
