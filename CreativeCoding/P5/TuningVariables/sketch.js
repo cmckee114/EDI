@@ -1,23 +1,25 @@
 function setup() {
-  createCanvas(720,720);
+  windowWidth=720;
+  createCanvas(windowWidth, windowWidth);
   fill('red');
-  strokeWeight(8);
+  strokeWeight(1);
 }
 
 function draw() {
-  background(220);
+  var num = 10; //variable for the number of squares in the array
   
-  translate(60,60);
+  var sideLen = windowWidth/num;
   
-  for (var y=0; y<600; y=y+300){ //loop to create a row of squares
+  
+  for (var y=0; y<windowWidth; y=y+sideLen){ //loop to create a row of squares
  
   
-  for (var x=0; x<600; x=x+300){ //loop to create a row of squares
+  for (var x=0; x<windowWidth; x=x+sideLen){ //loop to create a row of squares
     
     quad(x,y, 
-        x+300, y,
-        x+300, y+300,
-        x,y+300)
+        x+360, y,
+        x+360, y+360,
+        x,y+360)
     
   }
   }
