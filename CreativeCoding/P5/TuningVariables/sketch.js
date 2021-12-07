@@ -1,27 +1,38 @@
-function setup() {
-  windowWidth=720;
-  createCanvas(windowWidth, windowWidth);
-  fill('red');
-  strokeWeight(1);
+let gif1;
+let gif3;
+
+function preload (){
+  gif1 = loadImage ('assets/gif1.gif');
+  gif3 = loadImage ('assets/gif3.gif');
+}
+
+function setup() { //runs once
+  frameRate(1);
+  createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
-  var num = 10; //variable for the number of squares in the array
-  
-  var sideLen = windowWidth/num;
-  
-  
-  for (var y=0; y<windowWidth; y=y+sideLen){ //loop to create a row of squares
- 
-  
-  for (var x=0; x<windowWidth; x=x+sideLen){ //loop to create a row of squares
-    
-    quad(x,y, 
-        x+360, y,
-        x+360, y+360,
-        x,y+360)
-    
-  }
-  }
+
+background (255);
+
+var num = 15; //variable for the number of squares in the array
+var sideLen = windowWidth/num;//variable for the side lenth of each square
+  for (var y = 0; y < windowHeight; y = y + sideLen) {//loop to create rows in the y direction
+     for (var x = 0; x < windowWidth; x = x + sideLen) {// loop to create a row of squares in the x direction0
+
+       var r = floor(random(3));
+       switch (r) {
+            case 0:
+              image(gif1,x,y)
+            case 1:
+              image(gif3,x,y)
+      }
+}
+}
+//noLoop ();
+
 }
 
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
