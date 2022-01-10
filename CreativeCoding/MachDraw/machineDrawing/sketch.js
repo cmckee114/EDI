@@ -33,7 +33,7 @@ function draw() {
     line(1000, 250+i, 1000-i, 250)
   }
 
-//  save("mySVG.svg"); // give file name
-//  print("saved svg");
+  save("mySVG.svg"); // give file name
+  print("saved svg");
   noLoop(); // we just want to export once
 }
