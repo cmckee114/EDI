@@ -32,6 +32,10 @@ p{
     top: 5%;
 }
 
+h2{
+  position: absolute;
+}
+
 table{
   position: absolute;
   z-index: 1;
